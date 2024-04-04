@@ -38,12 +38,9 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
-
 **Full Adder:**
 
-
 ![image](https://github.com/dhivyadharshini2006/FULL_ADDER_SUBTRACTOR/assets/144979490/d0bba8f3-9dbd-4d97-b357-71daf645f363)
-
 
 **Full Subtractor:**
 
@@ -108,14 +105,9 @@ endmodule
 
 **Output Timing Waveform**
 
-
 **Full Adder:**
 
-
-
 ![image](https://github.com/dhivyadharshini2006/FULL_ADDER_SUBTRACTOR/assets/144979490/6d65dde2-1573-48c9-ad18-02ec5f1e7935)
-
-
 
 **Full Subtractor:**
 
